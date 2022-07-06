@@ -1,5 +1,5 @@
 # Border-tracing
-Detection of circles on the image by using the method of hough circles and border tracing of images by using inner border tracing algorithm
+Detection of circles on image by using the method of hough circles and border tracing of images by using inner border tracing algorithm
 
 # Output from hough circles techniques
 
